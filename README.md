@@ -1,3 +1,3 @@
 # vue-management
 
-Element UI + NodeJs(Express)全栈开发后台管理界面
+Vue + Element UI + NodeJs(Express)简易后台管理界面
